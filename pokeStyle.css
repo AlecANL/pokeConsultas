@@ -108,3 +108,15 @@ body {
 img {
   width: 100%;
 }
+@media (max-width: 700px) {
+  body {
+    background: #333;
+  }
+  .contentPokeCards__card1 {
+    width: 70vw;
+    height: 50vh;
+  }
+  .sectionMain {
+    max-width: 100%;
+  }
+}
