@@ -7,7 +7,7 @@ html {
   font-size: 62.5%;
 }
 body {
-  background: rgb(0, 132, 255);
+  background: #0084ff;
 }
 .sectionMain {
   width: 100%;
@@ -109,9 +109,6 @@ img {
   width: 100%;
 }
 @media (max-width: 700px) {
-  body {
-    background: #333;
-  }
   .contentPokeCards__card1 {
     width: 70vw;
     height: 50vh;
